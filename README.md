@@ -27,8 +27,8 @@ Aqui está a organização dos diretórios do repositório:
 - `Cap 4/`: 📁 Códigos mais simples utilizando `if` e `else`.
 - `Ponteiros/`: 📁 Questões e exemplos sobre o uso de ponteiros.
 - `Struct/`: 📁 Exemplos de uso de `struct` com `typedef`.
-- `vetoresc/`: 📁 Operações e práticas com vetores.
 - `alocação/`: 📁 Exemplos de alocação dinâmica de memória.
+- `vetoresc/`: 📁 Operações e práticas com vetores.
 
 ## 📋 Informações
 
